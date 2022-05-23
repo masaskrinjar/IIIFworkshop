@@ -1,0 +1,13 @@
+{
+  "id" : "https://masaskrinjar.github.io/IIIFworkshop/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in masaskrinjar/IIIFworkshop project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://masaskrinjar.github.io/IIIFworkshop/manifests/manifest.json",
+    "label" : "Garden plants and herbs in pots"
+  } ]
+}
